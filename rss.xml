@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[StrayBullet]]></title>
-        <description><![CDATA[StrayBullet]]></description>
+        <title><![CDATA[Stray Bullet]]></title>
+        <description><![CDATA[Stray Bullet]]></description>
         <link>https://thegrid.ai/straybullet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 17:08:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 17:18:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/straybullet/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://i.istockimg.com/file_thumbview_approve/16086963/6/stock-photo-16086963-bullet-hole-in-glass-isolated-on-black.jpg">]]></description>
+            <link>https://thegrid.ai/straybullet/88721921-f1b0-47a7-8ad4-3938c0363581/index.html</link>
+            <guid isPermaLink="false">88721921-f1b0-47a7-8ad4-3938c0363581</guid>
+            <pubDate>Wed, 03 Feb 2016 17:18:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://i.ytimg.com/vi/hWEA22u5LRE/maxresdefault.jpg">]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Language Evolution in the Digital Age]]></title>
-            <description><![CDATA[<article><h1>Language Evolution in the Digital Age</h1><p>What does The Dictionary mean to you? What makes a real word? Scarequotes, in a comment on Open Source, May 17, 2006 We are intrigued by the questions that Scarequotes posed last month, and we'd like to see where we can go with them. Lurking in the background is an old (and tired?)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b499dd478d8828763d87d7079d5586ec3a46571a.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Language Evolution in the Digital Age</h1><p>What does The Dictionary mean to you? What makes a real word? Scarequotes, in a comment on Open Source, May 17, 2006 We are intrigued by the questions that Scarequotes posed last month, and we'd like to see where we can go with them. Lurking in the background is an old (and tired?)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29dd708292e6b253fde906b2ccb82413e9c81a11.jpg"></article>]]></description>
             <link>http://radioopensource.org/language-evolution-in-the-digital-age/</link>
             <guid isPermaLink="false">ebdc6cad-4d15-4bb3-a1f3-fbf9234209fc</guid>
             <pubDate>Wed, 03 Feb 2016 17:07:56 GMT</pubDate>
