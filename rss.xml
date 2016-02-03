@@ -4,7 +4,7 @@
         <description><![CDATA[Stray Bullet]]></description>
         <link>https://thegrid.ai/straybullet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 17:33:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 17:34:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/straybullet/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,13 +33,6 @@
             <link>https://thegrid.ai/straybullet/25d9c661-ec4a-4395-98d1-21266ee23f91/index.html</link>
             <guid isPermaLink="false">25d9c661-ec4a-4395-98d1-21266ee23f91</guid>
             <pubDate>Wed, 03 Feb 2016 17:08:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stray Bullet › Home]]></title>
-            <description><![CDATA[<article><h1>Stray Bullet › Home</h1><p>description</p></article>]]></description>
-            <link>http://stray-bullet.com/</link>
-            <guid isPermaLink="false">2ed80edf-ec2e-49c6-882f-0ad60bec8579</guid>
-            <pubDate>Wed, 03 Feb 2016 17:07:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
