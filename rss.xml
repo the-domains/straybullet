@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[StrayBullet]]></title>
         <description><![CDATA[StrayBullet]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/straybullet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 17:07:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Feb 2016 17:08:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/straybullet/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Language Evolution in the Digital Age]]></title>
+            <description><![CDATA[<article><h1>Language Evolution in the Digital Age</h1><p>What does The Dictionary mean to you? What makes a real word? Scarequotes, in a comment on Open Source, May 17, 2006 We are intrigued by the questions that Scarequotes posed last month, and we'd like to see where we can go with them. Lurking in the background is an old (and tired?)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b499dd478d8828763d87d7079d5586ec3a46571a.jpg"></article>]]></description>
+            <link>http://radioopensource.org/language-evolution-in-the-digital-age/</link>
+            <guid isPermaLink="false">ebdc6cad-4d15-4bb3-a1f3-fbf9234209fc</guid>
+            <pubDate>Wed, 03 Feb 2016 17:07:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Stray Bullet › Home]]></title>
             <description><![CDATA[<article><h1>Stray Bullet › Home</h1><p>description</p></article>]]></description>
